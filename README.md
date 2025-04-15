@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @terrainfnffnf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript at age 10
-
-<!---
-terrainfnffnf/terrainfnffnf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programming cheats for you!
+- 🌱 I’m and 11 year old guy with a scratch account, link>>> scratch.mit.edu/users/terrainfnffnf
+im making a geometry dash cheat rn
